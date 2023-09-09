@@ -1,12 +1,12 @@
 With this App it's possibile to insert an user with the follow properties:
 
--Name
+- Name
 
--Surname
+- Surname
 
--Email
+- Email
 
--Goals to reach with meditation
+- Goals to reach with meditation
 
 
 
